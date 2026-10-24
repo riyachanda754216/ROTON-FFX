@@ -1,17 +1,17 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "RP-ROTON";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "@trader_roton12";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "@trader_roton12";
+var telegram_group_link = "https://t.me/rotonofficial01";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
